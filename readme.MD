@@ -1,0 +1,2 @@
+# Batch Normalization (BN)
+This repo is dedicated to understand BN and implement BN using pytorch in the paper [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167)
